@@ -14,5 +14,4 @@ The College Bus Tracking App is a Flutter-based application designed to streamli
 - *Flutter*: The application is implemented in Flutter, ensuring cross-platform compatibility for both Android and iOS devices.
 - *Geocode Package*: The Geocode package in Flutter is utilized to fetch location data from the driver's mobile device.
 - *Firebase (Future)*: Firebase for real-time data synchronization
-- 
-## Installation
+
